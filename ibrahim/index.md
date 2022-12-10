@@ -1,7 +1,7 @@
 ---
 layout: layouts/card.njk
 renk: f25ed9
-resim: ibrahim.jpg
+resim: "ibrahim.jpg"
 
 isim: İbrahim Abak
 rol: Founder
