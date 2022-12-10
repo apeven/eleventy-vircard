@@ -4,7 +4,7 @@
 <div class="ellipse position-absolute" style="background-color: #{{ renk }};"></div>
 
 <div class="flex-center"><div class="profile flex-center position-absolute overflow-hidden">
-<img src="{{ '/img/{{ resim }}' | url }}" class="user-image"></div></div>
+<img src="{{ post.data.resim | url }}" class="user-image"></div></div>
 <div class="flex-center user-name-container flex-column position-absolute"><div class="flex-center pl-20">
 <p class="user-name" style="color: #000000; font-size: 30px; margin-bottom: 10px;">{{ isim }}</p></div>
 <p class="user-designation mt-5 mb-0" style="color: #000000">{{ rol }}</p>
