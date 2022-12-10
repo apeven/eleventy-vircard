@@ -24,7 +24,7 @@ tgURL: https://telegram.me/username
 vcardURL: google.com
 ---
 
-<p>Mimarlık ve Danışmanlık Ofisi<br />
+<p style="text-align:center">Mimarlık ve Danışmanlık Ofisi<br />
 Otel Tedariği ve Dekorasyon Hizmetleri<br />
 Architecture and Consultancy Office<br />
 Supply and Decoration Services for Hotels</p>
