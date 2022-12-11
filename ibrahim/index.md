@@ -4,7 +4,7 @@ renk: f25ed9
 resim: https://i.imgur.com/5P7JacJ.jpg
 
 isim: İbrahim Abak
-rol: Founder
+rol: Co. Founder
 sirket: antandrus d.o.o.
 telefon: +90 545 316 84 17
 eposta: ibrahim@antandrus.com
